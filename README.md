@@ -1,6 +1,4 @@
-# Lévy-driven Hessian–Hausdorff Convergence Bound
-
-**Linking spectral stability, fractal geometry, and stochastic signal in deep learning optimization**
+# Hessian-Hausdorff Bounds: Scaling Laws for Lévy-Driven SGD at the Edge of Stability
 
 ---
 
