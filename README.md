@@ -1,4 +1,4 @@
-# Hessian–Hausdorff Convergence Bound
+# Lévy-driven Hessian–Hausdorff Convergence Bound
 
 **Linking spectral stability, fractal geometry, and stochastic signal in deep learning optimization**
 
