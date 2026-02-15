@@ -113,12 +113,6 @@ Iterating over `T` steps yields:
 E[L(θ_T) - L*] ≤ (1 - η · (C_α/d_H) · μ)^T (L(θ_0) - L*) + O(Tη²)
 ```
 
-**Proof sketch:** Available in [`theorem_proof.md`](theorem_proof.md). Uses:
-1. SDE approximation of Lévy-driven SGD
-2. Fractal scaling of noise variance by `d_H`
-3. PL descent with effective contraction rate
-4. Gronwall's inequality for iteration
-
 ---
 
 ## Convergence Rate Interpretation
